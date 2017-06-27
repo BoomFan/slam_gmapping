@@ -31,7 +31,7 @@
       <param name="ymin" value="-50.0"/>
       <param name="xmax" value="50.0"/>
       <param name="ymax" value="50.0"/>
-      <param name="delta" value="0.05"/> <!--grid of the map (0.1 means 0.1m * 0.1m) -->
+      <param name="delta" value="0.10"/> <!--grid of the map (0.1 means 0.1m * 0.1m) -->
       <param name="llsamplerange" value="0.01"/>
       <param name="llsamplestep" value="0.01"/>
       <param name="lasamplerange" value="0.005"/>
